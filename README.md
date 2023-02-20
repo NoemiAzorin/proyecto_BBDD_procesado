@@ -1,3 +1,15 @@
-# project-da-promoC-module-1-team-6
+# Proyecto_BBDD_procesado 👩‍💻
 
-Este repositorio corresponde al proyecto del team 6, cuyo objetivo es realizar una base de datos a partir de distintos ficheros con distinto formatos. Automatizando el sistema de procesado de datos para futuras inserciones de archivo.
+## *Contenido* 📝
+
+Este repositorio contiene un proyecto grupal consistente en la integración automatizada de datos de distintos formatos en una BBDD, así como su limpieza y corrección.
+
+En la carpeta *data* vemos todos los documentos sobre los que hemos ido trabajando.
+
+## *Librerías utilizadas* 📈
+
+- Pandas
+- Regex
+- Os
+- xml.etree.ElementTree
+- mysql.connector
